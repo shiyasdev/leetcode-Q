@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shiyasdev/leetcode-Q/tree/master/0001-two-sum) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shiyasdev/leetcode-Q/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0217-contains-duplicate](https://github.com/shiyasdev/leetcode-Q/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,4 +33,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shiyasdev/leetcode-Q/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/shiyasdev/leetcode-Q/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shiyasdev/leetcode-Q/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
