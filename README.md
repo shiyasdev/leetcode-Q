@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shiyasdev/leetcode-Q/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/shiyasdev/leetcode-Q/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shiyasdev/leetcode-Q/tree/master/0326-power-of-three) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/shiyasdev/leetcode-Q/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shiyasdev/leetcode-Q/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shiyasdev/leetcode-Q/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/shiyasdev/leetcode-Q/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
