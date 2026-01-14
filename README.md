@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shiyasdev/leetcode-Q/tree/master/0217-contains-duplicate) |
+| [1859-sorting-the-sentence](https://github.com/shiyasdev/leetcode-Q/tree/master/1859-sorting-the-sentence) |
 | [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/shiyasdev/leetcode-Q/tree/master/2706-buy-two-chocolates) |
 | [3731-find-missing-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/3731-find-missing-elements) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shiyasdev/leetcode-Q/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/shiyasdev/leetcode-Q/tree/master/0709-to-lower-case) |
+| [1859-sorting-the-sentence](https://github.com/shiyasdev/leetcode-Q/tree/master/1859-sorting-the-sentence) |
 | [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/shiyasdev/leetcode-Q/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/3174-clear-digits) |
