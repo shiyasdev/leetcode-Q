@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shiyasdev/leetcode-Q/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shiyasdev/leetcode-Q/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/shiyasdev/leetcode-Q/tree/master/0287-find-the-duplicate-number) |
+| [0912-sort-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/shiyasdev/leetcode-Q/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/2553-separate-the-digits-in-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shiyasdev/leetcode-Q/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shiyasdev/leetcode-Q/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/shiyasdev/leetcode-Q/tree/master/0389-find-the-difference) |
+| [0912-sort-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0912-sort-an-array) |
 | [1859-sorting-the-sentence](https://github.com/shiyasdev/leetcode-Q/tree/master/1859-sorting-the-sentence) |
 | [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/shiyasdev/leetcode-Q/tree/master/2706-buy-two-chocolates) |
@@ -114,4 +116,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shiyasdev/leetcode-Q/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
