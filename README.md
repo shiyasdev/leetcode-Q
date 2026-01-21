@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shiyasdev/leetcode-Q/tree/master/0326-power-of-three) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shiyasdev/leetcode-Q/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/shiyasdev/leetcode-Q/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2119-a-number-after-a-double-reversal](https://github.com/shiyasdev/leetcode-Q/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/shiyasdev/leetcode-Q/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/shiyasdev/leetcode-Q/tree/master/2652-sum-multiples) |
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
