@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0912-sort-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/shiyasdev/leetcode-Q/tree/master/1929-concatenation-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/shiyasdev/leetcode-Q/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/2553-separate-the-digits-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/shiyasdev/leetcode-Q/tree/master/2706-buy-two-chocolates) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shiyasdev/leetcode-Q/tree/master/0389-find-the-difference) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shiyasdev/leetcode-Q/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1748-sum-of-unique-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/1748-sum-of-unique-elements) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/shiyasdev/leetcode-Q/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/3731-find-missing-elements) |
