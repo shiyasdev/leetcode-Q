@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/shiyasdev/leetcode-Q/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shiyasdev/leetcode-Q/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/shiyasdev/leetcode-Q/tree/master/2235-add-two-integers) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/shiyasdev/leetcode-Q/tree/master/2652-sum-multiples) |
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shiyasdev/leetcode-Q/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/shiyasdev/leetcode-Q/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shiyasdev/leetcode-Q/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/2553-separate-the-digits-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/shiyasdev/leetcode-Q/tree/master/2706-buy-two-chocolates) |
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
