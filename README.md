@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/shiyasdev/leetcode-Q/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shiyasdev/leetcode-Q/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/shiyasdev/leetcode-Q/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/2553-separate-the-digits-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/shiyasdev/leetcode-Q/tree/master/2706-buy-two-chocolates) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/shiyasdev/leetcode-Q/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1592-rearrange-spaces-between-words](https://github.com/shiyasdev/leetcode-Q/tree/master/1592-rearrange-spaces-between-words) |
 | [1859-sorting-the-sentence](https://github.com/shiyasdev/leetcode-Q/tree/master/1859-sorting-the-sentence) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/shiyasdev/leetcode-Q/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shiyasdev/leetcode-Q/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/shiyasdev/leetcode-Q/tree/master/3110-score-of-a-string) |
